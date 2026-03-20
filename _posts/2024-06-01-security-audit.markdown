@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-title: Securiyt Audit    coming soon
+title: Securiyt Audit    
 img: audit.png
 alt: image-alt
 
