@@ -9,5 +9,6 @@ alt: image-alt
 project-url: https://docs.google.com/document/d/1OapBsdTLCoBl1dHtsP5s5wApq6s4-0rYsxC9wy-8cgY/edit?tab=t.0
 
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: Portfolio Project
+description: Developed SQL-based healthcare, cybersecurity, revenue cycle, and vulnerability management projects demonstrating proficiency with SELECT, JOIN, GROUP BY, aggregate functions, filtering, and reporting. Built realistic datasets and queries aligned with Application Analyst, Healthcare IT, Data Analyst, and Cybersecurity roles.
+
 ---
